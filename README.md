@@ -3,6 +3,8 @@
 Invoking web link and Phone through Implicit Intent
 
 Step 1: Type a website name and click Launch, will open a browser intent
+
+
 ![image](https://github.com/YaminiMuralidharen/ImplicitIntentassignment/blob/master/Picture3.png)
 
 ![image](https://github.com/YaminiMuralidharen/ImplicitIntentassignment/blob/master/Picture4.png)
