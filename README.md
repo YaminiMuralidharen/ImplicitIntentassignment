@@ -10,15 +10,14 @@ Step 2: Enter a phone number in the text box and click Ring, will open phone int
  
 ![image](https://github.com/YaminiMuralidharen/ImplicitIntentassignment/blob/master/Screenshot_1519487217.png)
 
+![image](https://github.com/YaminiMuralidharen/ImplicitIntentassignment/blob/master/Picture1.png)
 
-
- 
 
 
 Step3: If an invalid number is entered and Ring button is clicked , a message is displayed that phone number is invalid and the user will not be allowed to dial
 
 
- 
+ ![image](https://github.com/YaminiMuralidharen/ImplicitIntentassignment/blob/master/Picture2.png)
 
 
 
