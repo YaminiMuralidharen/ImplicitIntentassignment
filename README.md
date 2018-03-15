@@ -1,9 +1,10 @@
 # ImplicitIntentassignment
+
 Invoking web link and Phone through Implicit Intent
 Step 1: Type a website name and click Launch, will open a browser intent
 ![image](https://github.com/YaminiMuralidharen/ImplicitIntentassignment/blob/master/Screenshot_1519487091.png)
 
-![image](https://github.com/YaminiMuralidharen/ImplicitIntentassignment/blob/master/Screenshot_1519463425.png)
+![image]< img src="https://github.com/YaminiMuralidharen/ImplicitIntentassignment/blob/master/Screenshot_1519463425.png" width="200" height="200">
 
 
 Step 2: Enter a phone number in the text box and click Ring, will open phone intent and dial the number
